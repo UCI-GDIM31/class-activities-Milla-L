@@ -22,7 +22,7 @@ public class Ball : MonoBehaviour
         //_bounces + 1
         //_bounces --;
         //_bounces++;
-        //_bounces += 1
+        _bounces += 1
         // STEP 1 -------------------------------------------------------------
 
         // This line sets the value of the text on screen to the word "Bounces"
