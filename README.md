@@ -22,7 +22,11 @@ and a flag that tells you whether or not the player knows the character’s secret
 The inputs would be the friendship level and if the player knows the secret. The outputs would be the diologue choice and if the flag is waived. 
 The output would be a sting and a boolean. 
 
+Metaphor:
+The classes are like the frames that do nothing by themselves. The Component is like the lenses that tint, perscript, or block out blue light. 
+The frames are useless without the lenses, but the lenses need the frames to be held in place. 
 
+The balls get super bright because the color is always multiplied up and doesn't loop or darken at any point. 
 
 
 
