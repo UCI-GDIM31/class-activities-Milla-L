@@ -12,6 +12,20 @@ The cat can move at all because I assigned the movement animation.
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
 
+### W3
+Imagine we need to design a method to perform the following function. 
+What would you make the parameters (input) and return type (output) of this method?
+Tables 7-13
+You’re building a visual novel, and you’re writing a method named GetResponse that gives you a character’s 
+text response to a player’s dialogue choice based on the player’s current friendship level with the character 
+and a flag that tells you whether or not the player knows the character’s secret.
+The inputs would be the friendship level and if the player knows the secret. The outputs would be the diologue choice and if the flag is waived. 
+The output would be a sting and a boolean. 
+
+
+
+
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
