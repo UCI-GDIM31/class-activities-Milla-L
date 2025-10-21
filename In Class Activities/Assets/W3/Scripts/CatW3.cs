@@ -157,16 +157,14 @@ public class CatW3 : MonoBehaviour
     //      return "OH NO!".
     // 2. Otherwise, return "ouch".
 
-    private float GetHealthSpeechText()
-    {
+    //private float GetHealthSpeechText()
+    //{
         // put the method body here!
-        if (_health < _maxhealth / 2)
-        {
-            string _speechText = "OH NO!";
-        } else {
-            string _speechText = "ouch";
-        }
-    }
+        //if (_health <= (_health / 2)) {
+            //string _speechText = "OH NO!";
+        //} else {
+            //string _speechText = "ouch";}
+    //}
     
     // STEP 4 -----------------------------------------------------------------
 
