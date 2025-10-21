@@ -28,7 +28,17 @@ The frames are useless without the lenses, but the lenses need the frames to be 
 
 The balls get super bright because the color is always multiplied up and doesn't loop or darken at any point. 
 
+### W4
+Table #12
+Line 17: private bool _isGrounded = true; 
+	Creates a private boolean within the class and sets it to true. 
+Line 28: if (Input.GetKeyDown(KeyCode.Space) && _isGrounded)
+Takes the parameters of if the space key is held down and if the private boolean is true to then run the code after/ jump without double jump
+Line 32: _isGrounded = false;
+This is within the if statement and makes it so that when the space key is pressed, then the player is no longer grounded according to the boolean
 
+I added RigidBodies to the Cat and the SoccerBall and used the cube collision to add a IsTrigger on the goal. 
+My main problem with this game was confusion with the Trigger and Collision methods and where to use them. Once I figured that out, I was good. 
 
 ## Open-Source Assets
 ### W1
