@@ -40,6 +40,19 @@ This is within the if statement and makes it so that when the space key is press
 I added RigidBodies to the Cat and the SoccerBall and used the cube collision to add a IsTrigger on the goal. 
 My main problem with this game was confusion with the Trigger and Collision methods and where to use them. Once I figured that out, I was good. 
 
+### W5
+What is the difference between using the gameObject as collider like in the notes versus using other like in the Minigame 4?
+Ans: It is just another name to call upon in the Collider group. 
+Plan:
+Copy the CatW5
+Figure out what to change
+Delete what is inside and make update() to start()
+Make deer walk 
+Figure out nav mesh
+Learn how to get the components in Inspector
+Look for where set destination goes
+
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
