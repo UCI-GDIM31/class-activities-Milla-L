@@ -52,6 +52,16 @@ Figure out nav mesh
 Learn how to get the components in Inspector
 Look for where set destination goes
 
+### W6
+https://docs.google.com/document/d/1JjeQbCCUjY07LrZi49c0iomh2LtX_U5325lBy6n0Y44/edit?usp=sharing
+
+Make bat class
+Define player transform
+Add speed variable
+Add methods to do chase
+Make bat move
+
+
 
 ## Open-Source Assets
 ### W1
