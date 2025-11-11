@@ -62,6 +62,16 @@ Add methods to do chase
 Make bat move
 
 
+### W7
+https://docs.google.com/document/d/10R14qZZetU1eLqxvVqzBbsszbVETJhnGCUluOARTfZg/edit?tab=t.0
+I did the entirety of gameplay. 
+
+In Step 2 of the code, the issue was that the transform.position was being set, but not translated. 
+The actual Translate made it so that the muskrat would move along with its own local rotation and translation and 
+the transform.position made it move in accordance with the Global transform.
+
+
+
 
 ## Open-Source Assets
 ### W1
